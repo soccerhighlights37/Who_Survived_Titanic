@@ -67,4 +67,5 @@ Install the following to run the project:
 Project_Link: https://github.com/Tanu272004/Who_Survived_Titanic/tree/main
 github Link: https://github.com/Tanu272004
 LinkedIn: https://www.linkedin.com/in/tanmay-sharma-800599373/
-https://github.com/Prodigy-InfoTech
+Prodigy InfoTech Link Git hub: https://github.com/Prodigy-InfoTech
+
