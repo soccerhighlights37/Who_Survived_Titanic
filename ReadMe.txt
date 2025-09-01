@@ -64,6 +64,7 @@ Install the following to run the project:
 ---
 
 👨‍💻 Developed as part of **Task-02 | Data Science Internship @ Prodigy InfoTech**
-Project_Link: https://github.com/Tanu272004/world-population-analysis-powerbi.git
+Project_Link: https://github.com/Tanu272004/Who_Survived_Titanic/tree/main
 github Link: https://github.com/Tanu272004
 LinkedIn: https://www.linkedin.com/in/tanmay-sharma-800599373/
+https://github.com/Prodigy-InfoTech
